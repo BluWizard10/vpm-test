@@ -1,7 +1,7 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Private Listing",
+    "id":"net.bluwizard.sourcevpm",
+    "url":"https://bluwizard10.github.io/vpm-test/index.json",
     "author":{
         "email":"17975114+BluWizard10@users.noreply.github.com",
         "name":"BluWizard",
