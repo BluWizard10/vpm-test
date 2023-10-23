@@ -3,9 +3,9 @@
     "id":"com.vrchat.example-listing",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"17975114+BluWizard10@users.noreply.github.com",
+        "name":"BluWizard",
+        "url":"https://github.com/BluWizard10"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
@@ -13,15 +13,11 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"net.bluwizard.source",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/BluWizard10/blusource/releases/download/1.1.2/net.bluwizard.source-1.1.2.zip"
             ]
         }
     ]
