@@ -42,25 +42,6 @@
                 "https://github.com/BluWizard10/BluSource/releases/download/1.1.4/net.bluwizard.source-1.1.4.zip",
                 "https://github.com/BluWizard10/blusource/releases/download/1.1.2/net.bluwizard.source-1.1.2.zip"
             ]
-        },
-        {
-            "name": "net.bluwizard.poipresets",
-            "releases": [
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.4.0-beta.1/net.bluwizard.poipresets-1.4.0-beta.1.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.6/net.bluwizard.poipresets-1.3.6.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.5/net.bluwizard.poipresets-1.3.5.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.4/net.bluwizard.poipresets-1.3.4.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.3/net.bluwizard.poipresets-1.3.3.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.2/net.bluwizard.poipresets-1.3.2.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.1/net.bluwizard.poipresets-1.3.1.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.0/net.bluwizard.poipresets-1.3.0.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.2/net.bluwizard.poipresets-1.2.2.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.1/net.bluwizard.poipresets-1.2.1.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.0/net.bluwizard.poipresets-1.2.0.zip",
-                "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.1.0/net.bluwizard.poipresets-1.1.0.zip",
-                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.1/downloads/package",
-                "https://gitlab.com/BluWizard10/poiyomi-presets/-/releases/v1.0.0/downloads/package"
-            ]
         }
     ]
 }
