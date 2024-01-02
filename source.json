@@ -17,6 +17,7 @@
         {
             "name":"net.bluwizard.source",
             "releases":[
+                "https://github.com/BluWizard10/BluSource/releases/download/1.4.4/net.bluwizard.source-1.4.4.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.4.3/net.bluwizard.source-1.4.3.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.4.2/net.bluwizard.source-1.4.2.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.4.1/net.bluwizard.source-1.4.1.zip",
