@@ -17,6 +17,7 @@
         {
             "name":"net.bluwizard.source",
             "releases":[
+                "https://github.com/BluWizard10/BluSource/releases/download/1.4.8/net.bluwizard.source-1.4.8.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.4.7/net.bluwizard.source-1.4.7.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.4.6/net.bluwizard.source-1.4.6.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.4.5/net.bluwizard.source-1.4.5.zip",
@@ -32,21 +33,7 @@
                 "https://github.com/BluWizard10/BluSource/releases/download/1.2.3/net.bluwizard.source-1.2.3.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.2.2/net.bluwizard.source-1.2.2.zip",
                 "https://github.com/BluWizard10/BluSource/releases/download/1.2.1/net.bluwizard.source-1.2.1.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.2.0/net.bluwizard.source-1.2.0.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.16/net.bluwizard.source-1.1.16.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.15/net.bluwizard.source-1.1.15.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.14/net.bluwizard.source-1.1.14.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.13/net.bluwizard.source-1.1.13.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.12/net.bluwizard.source-1.1.12.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.11/net.bluwizard.source-1.1.11.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.10/net.bluwizard.source-1.1.10.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.9/net.bluwizard.source-1.1.9.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.8/net.bluwizard.source-1.1.8.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.7/net.bluwizard.source-1.1.7.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.6/net.bluwizard.source-1.1.6.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.5/net.bluwizard.source-1.1.5.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.1.4/net.bluwizard.source-1.1.4.zip",
-                "https://github.com/BluWizard10/blusource/releases/download/1.1.2/net.bluwizard.source-1.1.2.zip"
+                "https://github.com/BluWizard10/BluSource/releases/download/1.2.0/net.bluwizard.source-1.2.0.zip"
             ]
         }
     ]
