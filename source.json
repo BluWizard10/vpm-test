@@ -13,19 +13,7 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "packages":[
-        {
-            "name":"net.bluwizard.source",
-            "releases":[
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.9-dev/net.bluwizard.source-1.6.9-dev.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.8/net.bluwizard.source-1.6.8.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.7/net.bluwizard.source-1.6.7.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.6/net.bluwizard.source-1.6.6.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.5/net.bluwizard.source-1.6.5.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.4/net.bluwizard.source-1.6.4.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.3/net.bluwizard.source-1.6.3.zip",
-                "https://github.com/BluWizard10/BluSource/releases/download/1.6.2/net.bluwizard.source-1.6.2.zip"
-            ]
-        }
+    "githubRepos":[
+        "BluWizard10/BluSource"
     ]
 }
